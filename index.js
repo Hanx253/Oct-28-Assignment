@@ -61,7 +61,7 @@ app.get('/movies/director/:director', (req, res) => {
 
     movies.forEach(movie => {
         if (movie.director.name.includes(directorName)) {
-            foundDirector.push(movie);
+            foundDirector.push(movie.name);
         }
     })
     
@@ -78,7 +78,7 @@ app.get('/movies/rating', (req, res) => {
 
     movies.forEach(movie => {
         if (movie.rating >= minRating) {
-            selectedMovies.push(movie.name); 
+            foundMovie.push(movie.name); 
         }
     })
 
