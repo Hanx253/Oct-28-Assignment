@@ -43,7 +43,7 @@ app.get('/movies/actor/:actor', (req, res) => {
     movies.forEach(movie => {
         movie.cast.forEach(actor => {
             if (actor.name.includes(castName)) {
-                foundCast.push(movie);
+                foundCast.push(movie.name);
             }
         })
     })
