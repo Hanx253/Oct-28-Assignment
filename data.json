@@ -1,0 +1,76 @@
+{
+    "movies": [
+        {
+            "name": "Interstellar",
+            "introduction": "The film follows a group of astronauts who travel through a wormhole near Saturn in search of a new home for mankind.",
+            "releaseYear": "2014",
+            "genre": ["Science Fiction", "Adventure"],
+            "rating": "8.6",
+            "director": {
+                "name": "Christopher_Nolan",
+                "gender": "Male",
+                "famousWork": ["Oppenheimer", "The Prestige", "The Dark Knight"]
+            },
+            "cast": [
+                {
+                    "name": "Matthew_McConaughey",
+                    "gender": "Male",
+                    "otherWorks": ["Magic Mike", "Dallas Buyers Club"]
+                },
+                {
+                    "name": "Anne_Hathaway",
+                    "gender": "Female",
+                    "otherWorks": ["The Princess Diaries", "The Devil Wears Prada"]
+                }
+            ]
+        },
+        {
+            "name": "Catch_Me_If_You_Can",
+            "introduction": "A true story about Frank Abagnale Jr., who, before his 19th birthday, successfully conned millions of dollars' worth of checks as a Pan Am pilot, doctor, and legal prosecutor.",
+            "releaseYear": "2002",
+            "genre": ["Crime", "Biography", "Drama"],
+            "rating": "8.1",
+            "director": {
+                "name": "Steven_Spielberg",
+                "gender": "Male",
+                "famousWork": ["Ready Player One", "Jurassic Park", "E.T."]
+            },
+            "cast": [
+                {
+                    "name": "Leonardo_DiCaprio",
+                    "gender": "Male",
+                    "otherWorks": ["Titanic", "The Wolf of Wall Street", "The Revenant"]
+                },
+                {
+                    "name": "Tom_Hanks",
+                    "gender": "Male",
+                    "otherWorks": ["Splash", "Forrest Gump"]
+                }
+            ]
+        },
+        {
+            "name": "Inception",
+            "introduction": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+            "releaseYear": "2010",
+            "genre": ["Science Fiction", "Thriller"],
+            "rating": "8.8",
+            "director": {
+                "name": "Christopher_Nolan",
+                "gender": "Male",
+                "famousWork": ["Oppenheimer", "The Prestige", "The Dark Knight"]
+            },
+            "cast": [
+                {
+                    "name": "Leonardo_DiCaprio",
+                    "gender": "Male",
+                    "otherWorks": ["Titanic", "The Wolf of Wall Street", "The Revenant"]
+                },
+                {
+                    "name": "Joseph_Gordon-Levitt",
+                    "gender": "Male",
+                    "otherWorks": ["Looper", "500 Days of Summer"]
+                }
+            ]
+        }
+    ]
+}
