@@ -71,6 +71,174 @@
                     "otherWorks": ["Looper", "500 Days of Summer"]
                 }
             ]
-        }
+        },
+        {
+            "name": "Fight_Club",
+            "introduction": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+            "releaseYear": "1999",
+            "genre": ["Drama", "Thriller"],
+            "rating": "8.8",
+            "director": {
+                "name": "David_Fincher",
+                "gender": "Male",
+                "famousWork": ["Seven", "Gone Girl"]
+            },
+            "cast": [
+                {
+                    "name": "Brad_Pitt",
+                    "gender": "Male",
+                    "otherWorks": ["Seven", "Once Upon a Time in Hollywood"]
+                },
+                {
+                    "name": "Edward_Norton",
+                    "gender": "Male",
+                    "otherWorks": ["American History X", "Primal Fear"]
+                }
+            ]
+        },
+        {
+            "name": "The_Godfather",
+            "introduction": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+            "releaseYear": "1972",
+            "genre": ["Crime", "Drama"],
+            "rating": "9.2",
+            "director": {
+                "name": "Francis_Ford_Coppola",
+                "gender": "Male",
+                "famousWork": ["Apocalypse Now", "The Godfather Part II"]
+            },
+            "cast": [
+                {
+                    "name": "Marlon_Brando",
+                    "gender": "Male",
+                    "otherWorks": ["A Streetcar Named Desire", "On the Waterfront"]
+                },
+                {
+                    "name": "Al_Pacino",
+                    "gender": "Male",
+                    "otherWorks": ["Scarface", "Scent of a Woman"]
+                }
+            ]
+        },
+        {
+            "name": "Pulp Fiction",
+            "introduction": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+            "releaseYear": "1994",
+            "genre": ["Crime", "Drama"],
+            "rating": "8.9",
+            "director": {
+                "name": "Quentin_Tarantino",
+                "gender": "Male",
+                "famousWork": ["Kill Bill", "Inglourious Basterds"]
+            },
+            "cast": [
+                {
+                    "name": "John_Travolta",
+                    "gender": "Male",
+                    "otherWorks": ["Grease", "Saturday Night Fever"]
+                },
+                {
+                    "name": "Uma_Thurman",
+                    "gender": "Female",
+                    "otherWorks": ["Kill Bill", "Batman & Robin"]
+                }
+            ]
+        },
+        {
+            "name": "Blade_Runner_2049",
+            "introduction": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+            "releaseYear": "2017",
+            "genre": ["Science Fiction", "Thriller"],
+            "rating": "8.0",
+            "director": {
+                "name": "Denis_Villeneuve",
+                "gender": "Male",
+                "famousWork": ["Arrival", "Dune", "Sicario"]
+            },
+            "cast": [
+                {
+                    "name": "Ryan_Gosling",
+                    "gender": "Male",
+                    "otherWorks": ["La La Land", "Drive"]
+                },
+                {
+                    "name": "Harrison_Ford",
+                    "gender": "Male",
+                    "otherWorks": ["Indiana Jones", "Star Wars"]
+                }
+            ]
+        },
+        {
+            "name": "Atonement",
+            "introduction": "Thirteen-year-old fledgling writer Briony Tallis irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit.",
+            "releaseYear": "2007",
+            "genre": ["Drama", "Romance", "War"],
+            "rating": "7.8",
+            "director": {
+                "name": "Joe_Wright",
+                "gender": "Male",
+                "famousWork": ["Pride and Prejudice", "Hanna", "Darkest Hour"]
+            },
+            "cast": [
+                {
+                    "name": "Keira_Knightley",
+                    "gender": "Female",
+                    "otherWorks": ["Pride and Prejudice", "Pirates of the Caribbean"]
+                },
+                {
+                    "name": "James_McAvoy",
+                    "gender": "Male",
+                    "otherWorks": ["X-Men", "The Last King of Scotland"]
+                }
+            ]
+        },
+        {
+            "name": "Joker",
+            "introduction": "Arthur Fleck, a party clown and a failed stand-up comedian, leads an impoverished life with his ailing mother. However, when society shuns him and brands him as a freak, he decides to embrace the life of chaos in Gotham City.",
+            "releaseYear": "2019",
+            "genre": ["Crime", "Drama", "Thriller"],
+            "rating": "8.4",
+            "director": {
+                "name": "Todd_Phillips",
+                "gender": "Male",
+                "famousWork": ["The Hangover", "Old School", "War Dogs"]
+            },
+            "cast": [
+                {
+                    "name": "Joaquin_Phoenix",
+                    "gender": "Male",
+                    "otherWorks": ["Gladiator", "Walk the Line", "Her"]
+                }
+            ]
+        },
+        {
+            "name": "Léon:_The_Professional",
+            "introduction": "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+            "releaseYear": "1994",
+            "genre": ["Action", "Crime", "Drama"],
+            "rating": "8.5",
+            "director": {
+                "name": "Luc_Besson",
+                "gender": "Male",
+                "famousWork": ["The Fifth Element", "Lucy", "Valerian and the City of a Thousand Planets"]
+            },
+            "cast": [
+                {
+                    "name": "Jean_Reno",
+                    "gender": "Male",
+                    "otherWorks": ["The Da Vinci Code", "Ronin"]
+                },
+                {
+                    "name": "Natalie_Portman",
+                    "gender": "Female",
+                    "otherWorks": ["Black Swan", "V for Vendetta"]
+                },
+                {
+                    "name": "Gary_Oldman",
+                    "gender": "Male",
+                    "otherWorks": ["Dracula", "The Dark Knight"]
+                }
+            ]
+        }        
     ]
 }
