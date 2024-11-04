@@ -2,6 +2,11 @@ import express from 'express';
 import fs from 'fs/promises';
 
 const app = express();
+app.use(cors({
+    origin: '*'
+}));
+
+
 const port = process.env.PORT || 3001;
 
 let jsonData;
